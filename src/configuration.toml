@@ -1,0 +1,4 @@
+[guilded]
+	[guilded.settings]
+	token = ""
+	hide-status = false
