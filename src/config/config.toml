@@ -1,0 +1,6 @@
+[guilded]
+	[guilded.settings]
+    prefix = "/"
+	token = "gapi_FbvLCtQhNWHcF3bOrQmLAVMYTLcsXHb1vhtJ3kYR+RR83j+NSCOO7+JkVbDj0Qo05PIUBGeHKprMXimTtXnZMQ=="
+    webhook = "test"
+	hide-status = false
