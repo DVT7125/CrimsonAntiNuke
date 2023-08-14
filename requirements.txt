@@ -1,6 +1,3 @@
 guilded.py==1.10.0
 toml
-asyncio
-pyfiglet
-colorama
 guilded_webhook
