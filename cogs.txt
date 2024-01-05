@@ -1,0 +1,9 @@
+
+
+# Load all cogs from the cogs folder
+for filename in os.listdir("./modules"):
+    try:
+        if filename.endswith(".py"):
+            bot.load_extension(f"modules.{filename[:-3]}")
+    except Exception as error:
+        print(f"ERROR: Unable to load {filename}: {error}")
