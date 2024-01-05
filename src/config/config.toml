@@ -1,6 +1,0 @@
-[guilded]
-	[guilded.settings]
-    prefix = "/"
-	token = ""
-    webhook = "test"
-	hide-status = false
